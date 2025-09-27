@@ -51,7 +51,7 @@ Here are some of my key projects:
 |----------|-------------|------------|-----------|
 | **IMSU Bookshop E-commerce** | Full-stack online store for university bookshop. | React, Tailwind, Node.js, MySQL | [Live Demo](https://your-vercel-link.vercel.app) |
 | **TizerAutos** | E-commerce platform for car sales. | React, Tailwind, Node.js | [Live Demo](https://your-vercel-link.vercel.app) |
-| **Caesar Autos** | Website for auto dealership. | React, Tailwind | [Live Demo](https://your-vercel-link.vercel.app) |
+| **Swift Autos** | Website for auto dealership. | React, Tailwind | [Live Demo](https://your-vercel-link.vercel.app) |
 | **Farmer Intelligence System** | Web system for farmers to access tools and insights. | React, Node.js, MySQL | [Live Demo](https://your-vercel-link.vercel.app) |
 
 > *More projects coming soon...*

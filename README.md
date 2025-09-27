@@ -1,8 +1,7 @@
 <!-- Banner -->
-<p><img src="./asset/banner.png" /> </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2E64FE,100:58ACFA&height=250&section=header&text=Ukachukwu%20Samuel%20Uchechukwu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="./asset/banner.png" />
 </p>
 
 ---
